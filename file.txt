@@ -1,6 +1,0 @@
-Web Apps(alternative)
-Git
-Visual Studio(main)
-Visual Studio(alternative)
-New Repo
-Markdown(main)
